@@ -1,4 +1,4 @@
-#  🤝Assalamualaikum! I'm Usman Sarwar:
+#  🤝Assalamualaikum! I'm Usman Sarwar
 🎓 I’m a final year Student of Computer Systems Engineering at Sukkur IBA University, bridging the gap between theoretical Research and practical application.<br><br>🔭 I’m currently working on end-to-end AI Solutions—deploying Deep Learning (DL) models into real-time Web & Mobile Apps.<br><br>👯 I’m looking to collaborate on cutting-edge Machine Learning (ML) research and scalable Full-Stack projects.<br><br>🤝 I’m looking for help with optimizing Neural Networks for edge devices and advanced Data Engineering pipelines.<br><br>🌱 I’m currently learning next-gen Generative AI, Cloud Architecture, and advanced App UI/UX patterns.<br><br>💬 Ask me about the complete development lifecycle: from training YOLO models to building the Android/Web interfaces that run them.<br><br>⚡ Fun fact I don't just write code; I engineer intelligent systems that can see, predict, and interact with the real world.
 
 
