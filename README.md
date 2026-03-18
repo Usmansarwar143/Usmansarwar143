@@ -1,6 +1,6 @@
-# 🚀 Muhammad Usman – AI/ML Engineer | GenAI Enthusiast
+#  🙌Muhammad Usman – AI/ML Engineer | GenAI Enthusiast
 
-<h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
+<h1 align="center">Assalamualaikum! 👋, I'm Muhammad Usman</h1>
 <h3 align="center">Building Intelligent Systems with AI, ML & Generative AI</h3>
 
 ---
