@@ -56,7 +56,7 @@ expertise = {
 > AI-powered health assistant built with **Mistral-7B** on Streamlit  
 > ✅ Handles **100+ query types**  
 > 📈 ~30% improvement in response relevance  
-> 🔗 [`View Project`](#)
+> 🔗 [`View Project`](https://github.com/Usmansarwar143/u-care-friendly-chatbot)
 
 </td>
 <td width="50%" valign="top">
@@ -65,7 +65,7 @@ expertise = {
 > Fine-tuned LLM on **EmpatheticDialogues** dataset  
 > ✅ Human-like emotional response generation  
 > 📈 ~25% boost in empathy quality scores  
-> 🔗 [`View Project`](#)
+> 🔗 [`View Project`](https://github.com/Usmansarwar143/developershub-internship-tasks/tree/main/Task%2305)
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ expertise = {
 > Multi-model pipeline — **Llama 3 + Qwen + Gemma**  
 > ✅ 40% faster processing  
 > 📈 ~99.9% system uptime  
-> 🔗 [`View Project`](#)
+> 🔗 [`View Project`](https://github.com/Usmansarwar143/career-counceller)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ expertise = {
 > Semantic retrieval over **500–1000 document chunks**  
 > ✅ Built with **LangChain + FAISS**  
 > 📈 Highly accurate contextual responses  
-> 🔗 [`View Project`](#)
+> 🔗 [`View Project`](https://github.com/Usmansarwar143/developers-hub-internship-assignment-2/tree/main/Task04)
 
 </td>
 <td width="50%" valign="top">
