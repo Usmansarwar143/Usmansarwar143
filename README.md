@@ -1,238 +1,324 @@
-<div align="center">
+# <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Usman%20Sarwar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20LLM%20Architect&descAlignY=58&descSize=18&descColor=a8b2d8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=240&section=header&text=Muhammad%20Usman%20Sarwar&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20•%20LLMs%20•%20RAG%20•%20Agentic%20AI&descAlignY=60&descSize=18&animation=fadeIn"/>
 
-<br/>
+### Building Production-Ready AI Systems
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+🤖;LLMs+%7C+RAG+%7C+GenAI+Applications;Turning+Ideas+into+AI-Powered+Reality)](https://git.io/typing-svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=LLM+Engineering;Retrieval-Augmented+Generation;Agentic+AI+Systems;Multimodal+Applications;AI+Powered+Products"/>
+</p>
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-018535253)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usmansarwar143)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://usmansarwar143.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanwerke@gmail.com)
+<a href="https://www.linkedin.com/in/muhammad-usman-018535253">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Usmansarwar143">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://usmansarwar143.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Live-6D28D9?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 Assalamualaikum! I'm Muhammad Usman
-
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-🎓 **Final-year Computer Systems Engineering** student at *Sukkur IBA University*  
-🤖 Passionate about **Generative AI, LLMs, and RAG Systems**  
-🧠 Building **context-aware, intelligent applications** that solve real problems  
-⚡ Love the intersection of **AI + Automation + Impact**  
-🌱 Currently exploring **Multimodal AI** and **Agentic Workflows**  
-📍 Based in **Hyderabad, Pakistan**
-
-<br clear="right"/>
-
----
-
-## 🧠 What I Build
-
-```python
-expertise = {
-    "LLM Engineering":     ["Fine-tuning", "Prompt Engineering", "Instruction Tuning"],
-    "RAG Systems":         ["LangChain", "FAISS", "ChromaDB", "Vector Search"],
-    "ML / DL":             ["PyTorch", "TensorFlow", "CNNs", "Transformers"],
-    "NLP":                 ["Text Classification", "NER", "Semantic Search"],
-    "Deployment":          ["Streamlit", "FastAPI", "HuggingFace Spaces"],
-}
-```
-
----
-
-## 🚀 Featured Projects
+# AI Engineer Dashboard
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🩺 U-Care Bot
-> AI-powered health assistant built with **Mistral-7B** on Streamlit  
-> ✅ Handles **100+ query types**  
-> 📈 ~30% improvement in response relevance  
-> 🔗 [`View Project`](https://github.com/Usmansarwar143/u-care-friendly-chatbot)
+<td width="35%">
 
-</td>
-<td width="50%" valign="top">
+## 👨‍💻 Profile
 
-### 💬 EmpathyBot
-> Fine-tuned LLM on **EmpatheticDialogues** dataset  
-> ✅ Human-like emotional response generation  
-> 📈 ~25% boost in empathy quality scores  
-> 🔗 [`View Project`](https://github.com/Usmansarwar143/developershub-internship-tasks/tree/main/Task%2305)
+**Muhammad Usman Sarwar**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+🎓 BE Computer Systems Engineering
 
-### ⏳ Chronos AI
-> Dual-memory RAG system using **ChromaDB + Mistral-7B**  
-> ✅ Long-term context retention across sessions  
-> 📈 ~45% improvement in personalization  
-> 🔗 [`View Project`](#)
+🏛 Sukkur IBA University
+
+🤖 AI / ML Engineer
+
+📍 Pakistan
+
+🚀 Open to AI/ML Opportunities
 
 </td>
-<td width="50%" valign="top">
 
-### ⚡ Ascend AI
-> Multi-model pipeline — **Llama 3 + Qwen + Gemma**  
-> ✅ 40% faster processing  
-> 📈 ~99.9% system uptime  
-> 🔗 [`View Project`](https://github.com/Usmansarwar143/career-counceller)
+<td width="65%">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Current Focus
 
-### 🧠 Context-Aware Chatbot (RAG)
-> Semantic retrieval over **500–1000 document chunks**  
-> ✅ Built with **LangChain + FAISS**  
-> 📈 Highly accurate contextual responses  
-> 🔗 [`View Project`](https://github.com/Usmansarwar143/developers-hub-internship-assignment-2/tree/main/Task04)
+* Large Language Models
+* Retrieval-Augmented Generation
+* Agentic AI Systems
+* Multimodal Applications
+* Production AI Deployment
 
 </td>
-<td width="50%" valign="top">
 
-### 📄 QueryDocs
-> RAG-based **PDF Q&A chatbot**  
-> ✅ Natural language queries over any document  
-> 📈 Deep Learning course final project  
-> 🔗 [`View Project`](#)
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 💼 Work Experience
-
-<details>
-<summary><b>🏢 DevelopersHub Corporation — AI/ML Intern (Remote)</b></summary>
-<br/>
-
-- 🔨 Built **6+ end-to-end AI/ML solutions** across diverse domains
-- 📊 Achieved consistent **80–88% model accuracy**
-- 🔍 Developed production-grade **RAG pipelines** + NLP auto-tagging (+30% accuracy)
-- 🤝 Collaborated in agile sprints delivering quality AI features
-
-</details>
-
-<details>
-<summary><b>🏢 Elevvo Pathways — AI/ML Intern (Remote)</b></summary>
-<br/>
-
-- 🧠 Designed and deployed **10+ ML/DL models** in production
-- 📈 Achieved up to **90% accuracy** across classification tasks
-- 🖼️ Built **CNN-based image & audio classifiers** with 85–95% accuracy
-- 📚 Gained deep hands-on experience with Transformers and fine-tuning
-
-</details>
-
-<details>
-<summary><b>🏢 CodeGradients — Python Intern (On-site)</b></summary>
-<br/>
-
-- ⚙️ Automated manual workflows, cutting effort by **30–40%**
-- 🧹 Improved overall code quality and test coverage by **25%**
-- 🛠️ Delivered reusable Python utility modules across multiple projects
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-### 🤖 AI / ML / GenAI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0064A0?style=flat-square&logo=meta&logoColor=white)
-
----
-
-## 📜 Certifications
-
-| 🏅 Certificate | 🏛️ Issuer | 
-|---|---|
-| 🧠 Prompt Engineering for LLMs | LinkedIn Learning |
-| ⚛️ Quantum Computing Fundamentals | LinkedIn Learning |
-| 🚀 GenAI App Development | PEC · PakAngels · Aspire Pakistan |
-
----
-
-## 📊 GitHub Stats
+# ⚡ Impact Snapshot
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Usmansarwar143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmansarwar143&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usmansarwar143&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Usmansarwar143&label=Profile%20Views&color=7F77DD&style=flat-square)
+| Metric              | Value    |
+| ------------------- | -------- |
+| 🤖 AI Projects      | 20+      |
+| 🧠 LLM Applications | 10+      |
+| 📚 RAG Systems      | 8+       |
+| 💼 Internships      | 3        |
+| 🏆 Certifications   | 10+      |
+| 🚀 Deployments      | Multiple |
 
 </div>
 
 ---
 
-## 🎯 Career Goal
+# 🛠 Technology Stack
 
 <div align="center">
 
-> *"To build scalable, human-centered AI systems that harness the power of*  
-> *Generative AI, LLMs, and intelligent automation — making technology*  
-> *more accessible, empathetic, and impactful for everyone."*
+### Core Technologies
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,mysql,git,github,docker,linux"/>
+
+<br><br>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+# 🧠 AI Architecture Expertise
+
+```text
+User Query
+     │
+     ▼
+Embedding Model
+     │
+     ▼
+Vector Database
+     │
+     ▼
+Retriever
+     │
+     ▼
+LLM
+     │
+     ▼
+Agent Layer
+     │
+     ▼
+Final Response
+```
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 U-Care Bot
+
+AI Healthcare Assistant
+
+**Stack**
+
+Mistral-7B • Streamlit • NLP
+
+### Highlights
+
+✔ 100+ Medical Query Types
+
+✔ Enhanced Response Relevance
+
+✔ Production Deployment
+
+🔗 Repository
+
+</td>
+
+<td width="50%">
+
+## 🧠 Chronos AI
+
+Persistent Memory Assistant
+
+**Stack**
+
+Mistral-7B • ChromaDB • LangChain
+
+### Highlights
+
+✔ Dual Memory Architecture
+
+✔ Session Persistence
+
+✔ Personalized Responses
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ⚡ Ascend AI
+
+AI Career Counsellor
+
+**Stack**
+
+Llama 3 • Gemma • Qwen
+
+### Highlights
+
+✔ Multi-Model Pipeline
+
+✔ Faster Inference
+
+✔ High Availability
+
+🔗 Repository
+
+</td>
+
+<td width="50%">
+
+## 📄 QueryDocs
+
+Document Intelligence Platform
+
+**Stack**
+
+LangChain • FAISS • Streamlit
+
+### Highlights
+
+✔ PDF Question Answering
+
+✔ Semantic Search
+
+✔ Context-Aware Responses
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Professional Experience
+
+## 🤖 AI / ML Intern
+
+### DevelopersHub Corporation
+
+* Built multiple AI solutions
+* Developed RAG pipelines
+* Improved NLP performance
+* Delivered production-ready systems
+
+---
+
+## 🧠 AI / ML Intern
+
+### Elevvo Pathways
+
+* Trained ML and DL models
+* Built CNN applications
+* Worked with Transformers
+* Achieved high-performing results
+
+---
+
+## 🐍 Python Intern
+
+### CodeGradients
+
+* Workflow Automation
+* Backend Utilities
+* Code Optimization
+* Testing Improvements
+
+---
+
+# 📜 Certifications
+
+| Certification                  | Organization                      |
+| ------------------------------ | --------------------------------- |
+| Prompt Engineering for LLMs    | LinkedIn Learning                 |
+| Quantum Computing Fundamentals | LinkedIn Learning                 |
+| GenAI Application Development  | PEC · PakAngels · Aspire Pakistan |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [muhammad-usman-018535253](https://www.linkedin.com/in/muhammad-usman-018535253) |
-| 🐙 GitHub | [Usmansarwar143](https://github.com/Usmansarwar143) |
-| 🌐 Portfolio | [usmansarwar143.github.io/portfolio](https://usmansarwar143.github.io/portfolio/) |
-| 📧 Email | usmanwerke@gmail.com |
-| 📞 Phone | +92 316 3238191 |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Usmansarwar143&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usmansarwar143&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Usmansarwar143&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Mission
+
+<div align="center">
+
+### Building intelligent systems that transform complex information into actionable decisions through
+
+### LLMs • RAG • Agentic AI • Multimodal Intelligence
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-usman-018535253">
+LinkedIn
+</a> •
+<a href="https://github.com/Usmansarwar143">
+GitHub
+</a> •
+<a href="https://usmansarwar143.github.io/portfolio/">
+Portfolio
+</a>
+
+📧 [usmanwerke@gmail.com](mailto:usmanwerke@gmail.com)
 
 </div>
 
@@ -240,8 +326,14 @@ expertise = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*⭐ If you find my work useful, consider starring some repos — it means a lot!*
+### AI / ML Engineer
+
+LLMs • RAG • Agentic AI • Production Systems
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=120&section=footer"/>
 
 </div>
